@@ -2,7 +2,7 @@
 
 Can large language models replace human ratings of word meaning? This project compares LLM-generated concreteness and valence ratings with human norms, and tests whether the model truly understands words or partly recognises them from training data.
 
-* Project for the course Cognitive & Behavioural Measures *
+_Project for the course Cognitive & Behavioural Measures_
 
 ## 1️⃣ LLM norms validation
 
